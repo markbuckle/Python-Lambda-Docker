@@ -79,8 +79,6 @@ When it asks you to deploy this changes (y/n), type 'y' and press enter.
 
 If it deploys successfuly you should see the numpy matrix and hello world:
 
-
-
-## Wrapping up
+<img width=600 src="https://github.com/markbuckle/Python-Lambda-Docker/blob/main/deployed.png?raw=true">
 
 
