@@ -83,4 +83,4 @@ If it deploys successfuly you should see the numpy matrix and hello world:
 
 You should also see your updated function in the Lambda Function console:
 
-<img width=600 src="https://github.com/markbuckle/Python-Lambda-Docker/blob/main/lambdafunction.png?raw=true">
+<img width=800 src="https://github.com/markbuckle/Python-Lambda-Docker/blob/main/lambdafunction.png?raw=true">
